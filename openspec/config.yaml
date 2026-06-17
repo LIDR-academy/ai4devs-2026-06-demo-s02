@@ -18,7 +18,6 @@ schema: spec-driven
 #       - Always include a "Non-goals" section
 #     tasks:
 #       - Break tasks into chunks of max 2 hours
-
 context: |
   Backend en AdonisJS 7, frontend en React 19 + Vite.
   Backend: AdonisJS 7, Lucid ORM, SQLite (better-sqlite3),
@@ -32,5 +31,5 @@ rules:
   design:
    - TypeScript strict mode
    - Migrations descriptivas con timestamp
-   - Controllers retornan JSON estructurado: { data } o { error }
+   - "Controllers retornan JSON estructurado: { data } o { error }"
    - Tokens opacos con prefijo `oat_`
