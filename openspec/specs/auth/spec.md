@@ -1,8 +1,8 @@
 # Capability: auth
 
 ## Purpose
-Sistema de autenticación con tokens opacos para una API.
-Permite signup, login, logout y consulta del usuario actual.
+Authentication system with opaque tokens for an API.
+Allows signup, login, logout, and retrieving the current user.
 
 ## Requirements
 
